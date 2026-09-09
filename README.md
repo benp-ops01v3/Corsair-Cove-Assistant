@@ -1,4 +1,4 @@
-# 🏴‍☠️ Corsair Cove Ultimate Assistant | Add Coins, Resources & Ship Supply
+# 🏴‍☠️ Corsair Cove Ultimate Assistant | Add Coins, Resources & Ship Supply 
 
 ![Corsair Cove Ultimate Assistant Preview](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrx-1YxVRFAtPAleOaq6YfXt47JlTEPubuO3g17r_htQ&s=10)
 
